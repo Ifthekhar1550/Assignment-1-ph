@@ -62,7 +62,7 @@
 .discount h3 {
   color: #f00;
   margin-top: 100px;
-  margin-bottom: 32px;
+  margin-bottom: 35px;
   font-family: Inter;
   font-size: 58px;
   font-style: normal;
@@ -81,10 +81,9 @@
   color: #070211;
   margin-bottom: 36px;
   font-family: Inter;
-  font-size: 32px;
+  font-size: 36px;
   font-style: normal;
   font-weight: 700;
-
 }
 .welcome {
   position: relative;
@@ -167,7 +166,7 @@
   border-radius: 16px;
   width: 1320px;
   height: 485px;
-  margin-top: 50px;
+  margin-top: 100px;
   margin-bottom: 50px;
   display: flex;
   flex-direction: column;
@@ -327,9 +326,7 @@ margin-bottom: 20px;
 .offer{
   margin-top: 100px;
   margin-bottom: 100px;
- 
 
-  
 }
 .offer2 {
   position: relative;
